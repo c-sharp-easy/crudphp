@@ -21,7 +21,7 @@
 <div class="col-sm-12" style=" background-color: gainsboro; border-bottom: 2px solid #1565C0;">
 
     <div class="col-sm-12" style="margin-top: 90px;">
-        <h3 class="text-center">Contactos APEX</h3>
+        <h3 class="text-center">Contactos Genesis</h3>
         <div>
             <p class="text-center">Maneja tu lista de contactos accesible en cualquier momento y lugar</p>
         </div>
