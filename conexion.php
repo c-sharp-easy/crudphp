@@ -1,6 +1,6 @@
 <?php
 
-//Funcion para guardar
+//Funciones de crud
 
 
 function MOSTRAR(){
